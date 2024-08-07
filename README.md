@@ -6,9 +6,9 @@ chatapp
 
 Create a flutter project EMPTY
 Copy following from the zip file
-**** lib folder (and sub files/folders)
-**** android folder (and sub files/folders)
-**** pubspec.yaml
+***lib folder (and sub files/folders)
+***android folder (and sub files/folders)
+***pubspec.yaml
 
 flutter clean
 flutter pub cache clean
